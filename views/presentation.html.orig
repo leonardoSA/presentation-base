@@ -43,17 +43,36 @@
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
 				<section>
+<<<<<<< HEAD
 					<h1>Leonardo Araujo</h1>
 					<p>
 						Ciencia da Computação
+=======
+					<h3>Quem sou eu</h3>
+					<p>
+                                        <small>Marino Hohenheim <!-- <a href="#">some link</a> --> </small>
+>>>>>>> origin/part3
 					</p>
 				</section>
 
 				<section>
+<<<<<<< HEAD
 					<h2>Introduction</h2>
 					<p>
 						Some gibberish radom text
                     </p>
+=======
+                                  <!--	<h2>Introduction</h2>
+				         <p>
+					    Some gibrish radom text
+                                        </p>-->
+                                        <ul>
+                                          <li>Estudante de Ciência da Computação</li>
+                                          <li>Empresário Júnior</li>
+                                          <li>Pesquisador em métodos formais no LaSiD</li>
+                                          <li>Juiz de Robótica First® Lego® League</li>
+                                        </ul>
+>>>>>>> origin/part3
 				</section>
 
                                 <section>
@@ -107,12 +126,17 @@
 
 
 				<section style="text-align: left;">
-					<h1>THE END</h1>
-					<p>
-						- <a href="http://slides.com">Try the online editor</a> <br>
-						- <a href="https://github.com/hakimel/reveal.js">Source code &amp; documentation</a>
-					</p>
-				</section>
+					<h2>FIM</h2>
+					
+                    <span class="a-linkedin"><a target="_blank" href="https://www.linkedin.com/in/marinosouza"><i class="fa fa-linkedin-square"></i> Recomende</a></span>
+                    <br>
+                    <span class="a-github"><a target="_blank" href="https://github.com/Marinofull"><i class="fa fa-github-square"></i> Conheça e fork meus projetos</a></span>
+                    <br>
+                    <span class="a-facebook"><a target="_blank" href="https://twitter.com/Marinofull"><i class="fa fa-twitter-square"></i> Twit me</a></span>
+		                        <p>
+					  - Desenvolvido com <a href="https://github.com/hakimel/reveal.js">Reveal.js</a>
+					</p>	
+                              </section>
 
 			</div>
 
